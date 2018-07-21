@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to Sumeet's Portfolio
+
+I am currently studying in Ottawa at Carleton University.
 
 You can use the [editor on GitHub](https://github.com/sumeet-gre/Portfolio/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
